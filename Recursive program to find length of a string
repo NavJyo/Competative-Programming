@@ -1,0 +1,10 @@
+def func(n):
+    if len(n)==0:
+        return 0 
+    return 1+ func(n[1:])
+
+
+
+n= 'navya'  
+result = func(n) 
+print(result)
