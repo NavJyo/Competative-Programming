@@ -5,6 +5,6 @@ def func(n):
 
 
 
-n= 'navya'  
+n= 'nj'  
 result = func(n) 
 print(result)
